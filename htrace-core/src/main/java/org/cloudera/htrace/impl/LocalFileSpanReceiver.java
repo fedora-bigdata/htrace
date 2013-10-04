@@ -21,7 +21,7 @@ import org.apache.commons.logging.LogFactory;
 import org.cloudera.htrace.HTraceConfiguration;
 import org.cloudera.htrace.Span;
 import org.cloudera.htrace.SpanReceiver;
-import org.mortbay.util.ajax.JSON;
+import org.eclipse.jetty.util.ajax.JSON;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
